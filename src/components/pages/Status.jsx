@@ -1,0 +1,1 @@
+export const Status = "init" | "success" | "error" | "loading"
